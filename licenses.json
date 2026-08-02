@@ -1,0 +1,82 @@
+[
+  {
+    "id": "mit",
+    "name": "MIT License",
+    "description": {
+      "ro": "Una dintre cele mai populare licențe open source. Permite aproape orice utilizare a codului: proiecte personale, comerciale, modificări, distribuire sau integrare în alte aplicații. Este potrivită pentru dezvoltatori care doresc ca proiectul lor să fie folosit de cât mai multe persoane, fără multe restricții. Singura cerință principală este păstrarea notificării originale de copyright și a licenței.",
+      "en": "One of the most popular open source licenses. It allows almost any use of the code: personal projects, commercial products, modifications, distribution, or integration into other applications. It is suitable for developers who want their project to be widely adopted with minimal restrictions. The main requirement is keeping the original copyright notice and license text."
+    }
+  },
+  {
+    "id": "apache-2.0",
+    "name": "Apache License 2.0",
+    "description": {
+      "ro": "O licență permisivă similară cu MIT, dar care oferă protecții suplimentare pentru brevete software. Este folosită frecvent de proiecte mari și companii deoarece permite folosirea codului în produse comerciale, inclusiv software proprietar. Este o alegere bună pentru biblioteci, framework-uri și proiecte care doresc adopție largă, oferind în același timp protecții juridice mai clare.",
+      "en": "A permissive license similar to MIT but with additional protections regarding software patents. It is commonly used by large projects and companies because it allows the code to be used in commercial and proprietary products. It is a good choice for libraries, frameworks, and projects that want wide adoption while providing clearer legal protections."
+    }
+  },
+  {
+    "id": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "description": {
+      "ro": "O licență copyleft puternică ce are scopul de a păstra software-ul liber. Oricine poate folosi și modifica proiectul, dar dacă distribuie o versiune modificată trebuie să ofere codul sursă și să folosească aceeași licență GPL. Este potrivită pentru aplicații și proiecte care doresc ca toate versiunile derivate să rămână open source.",
+      "en": "A strong copyleft license designed to keep software free. Anyone can use and modify the project, but if they distribute a modified version they must provide the source code and use the same GPL license. It is suitable for applications and projects that want all derivative versions to remain open source."
+    }
+  },
+  {
+    "id": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "description": {
+      "ro": "O versiune mai strictă a GPL creată pentru software folosit prin internet. Dacă cineva modifică software-ul și îl oferă ca serviciu online, trebuie să ofere utilizatorilor acces la codul sursă modificat. Este folosită pentru aplicații web și servicii cloud unde dezvoltatorii vor să evite situația în care codul este modificat și folosit pe server fără a fi publicat.",
+      "en": "A stricter version of GPL designed for software used over the internet. If someone modifies the software and provides it as an online service, they must provide access to the modified source code. It is commonly used for web applications and cloud services where developers want to prevent private server-side modifications from remaining closed."
+    }
+  },
+  {
+    "id": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "description": {
+      "ro": "O variantă mai flexibilă a GPL destinată în special bibliotecilor software. Permite altor aplicații să folosească biblioteca fără obligația de a deveni complet open source, dar modificările aduse bibliotecii trebuie publicate. Este potrivită pentru dezvoltatori care doresc ca biblioteca lor să fie folosită atât în proiecte open source, cât și comerciale.",
+      "en": "A more flexible version of GPL mainly intended for software libraries. It allows other applications to use the library without requiring the entire application to become open source, but modifications to the library itself must be released. It is suitable for developers who want their library to be used in both open source and commercial projects."
+    }
+  },
+  {
+    "id": "bsd-3-clause",
+    "name": "BSD 3-Clause License",
+    "description": {
+      "ro": "O licență permisivă folosită în multe proiecte academice și comerciale. Permite modificarea și utilizarea codului aproape fără restricții, inclusiv în produse proprietare. Include o clauză care împiedică folosirea numelui autorilor sau al proiectului pentru promovarea produselor derivate fără permisiune.",
+      "en": "A permissive license used by many academic and commercial projects. It allows modification and use of the code with very few restrictions, including in proprietary products. It includes a clause preventing the use of the project or contributor names for endorsing derived products without permission."
+    }
+  },
+  {
+    "id": "mpl-2.0",
+    "name": "Mozilla Public License 2.0",
+    "description": {
+      "ro": "O licență cu copyleft slab, creată pentru a combina libertatea open source cu posibilitatea integrării în produse comerciale. Modificările fișierelor existente sub MPL trebuie publicate, dar codul nou adăugat poate avea o altă licență. Este potrivită pentru aplicații și biblioteci unde se dorește colaborare open source fără restricții totale.",
+      "en": "A weak copyleft license designed to balance open source collaboration with commercial use. Changes made to MPL-licensed files must be released, but newly added code can use a different license. It is suitable for applications and libraries that want collaboration without requiring the entire project to be open source."
+    }
+  },
+  {
+    "id": "isc",
+    "name": "ISC License",
+    "description": {
+      "ro": "O licență simplă și permisivă, similară cu MIT, folosită frecvent în proiecte software moderne. Permite folosirea, modificarea și distribuirea codului, inclusiv comercial. Este apreciată pentru textul scurt și ușor de înțeles.",
+      "en": "A simple permissive license similar to MIT, commonly used in modern software projects. It allows use, modification, and distribution of code, including commercial use. It is appreciated for its short and easy-to-understand wording."
+    }
+  },
+  {
+    "id": "unlicense",
+    "name": "The Unlicense",
+    "description": {
+      "ro": "O licență care încearcă să dedice complet codul domeniului public. Autorul renunță la cât mai multe drepturi posibile, permițând oricui să folosească proiectul fără aproape nicio restricție. Este folosită de persoane care nu doresc să impună condiții asupra codului lor.",
+      "en": "A license that attempts to dedicate the code completely to the public domain. The author waives as many rights as possible, allowing anyone to use the project with almost no restrictions. It is used by developers who do not want to impose conditions on their code."
+    }
+  },
+  {
+    "id": "none",
+    "name": "No License",
+    "description": {
+      "ro": "Proiectul nu are o licență open source. Chiar dacă codul este vizibil public, alte persoane nu au automat dreptul să îl copieze, modifice sau distribuie. Este recomandat doar dacă autorul dorește să păstreze toate drepturile asupra proiectului.",
+      "en": "The project has no open source license. Even if the code is publicly visible, others do not automatically have permission to copy, modify, or distribute it. It is recommended only when the author wants to keep all rights over the project."
+    }
+  }
+]
